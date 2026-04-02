@@ -1,12 +1,155 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\DoctorDepartment\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|c:\\users\\user\\desktop\\doctordepartment\\doctordepartment\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|solutionrelative:doctordepartment\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|c:\\users\\user\\desktop\\doctordepartment\\doctordepartment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|solutionrelative:doctordepartment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|c:\\users\\user\\desktop\\doctordepartment\\doctordepartment\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|solutionrelative:doctordepartment\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|c:\\users\\user\\desktop\\doctordepartment\\doctordepartment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|solutionrelative:doctordepartment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|c:\\users\\user\\desktop\\doctordepartment\\doctordepartment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|solutionrelative:doctordepartment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|c:\\users\\user\\desktop\\doctordepartment\\doctordepartment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|solutionrelative:doctordepartment\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|c:\\users\\user\\desktop\\doctordepartment\\doctordepartment\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|solutionrelative:doctordepartment\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|c:\\users\\user\\desktop\\doctordepartment\\doctordepartment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF443369-E152-4689-8163-D45B49F5815A}|DoctorDepartment\\DoctorDepartment.csproj|solutionrelative:doctordepartment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorDepartment\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "DoctorDepartment\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-02T11:42:34.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "DoctorDepartment\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "DoctorDepartment\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA1wB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T11:20:05.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DoctorDepartment\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DoctorDepartment\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-02T09:38:02.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoctorDepartment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DoctorDepartment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-02T09:24:35.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DoctorDepartment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DoctorDepartment\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T09:24:14.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "DoctorDepartment\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Models\\Department.cs",
+              "RelativeToolTip": "DoctorDepartment\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T09:22:29.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "DoctorDepartment\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Models\\Doctor.cs",
+              "RelativeToolTip": "DoctorDepartment\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T09:22:13.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Program.cs",
+              "RelativeDocumentMoniker": "DoctorDepartment\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\Program.cs",
+              "RelativeToolTip": "DoctorDepartment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T09:20:50.079Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

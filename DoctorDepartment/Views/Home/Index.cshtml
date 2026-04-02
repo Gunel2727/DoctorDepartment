@@ -1,0 +1,10 @@
+﻿@model List<Department>
+
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>
+            <a href="/doctor/index?departmentId=@item.Id">@item.Name</a>
+        </li>
+    }
+</ul>
