@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\DoctorDepartment.csproj": {}
+    "C:\\Users\\user\\Desktop\\Frontend\\DoctorDepartment\\DoctorDepartment\\DoctorDepartment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\DoctorDepartment.csproj": {
+    "C:\\Users\\user\\Desktop\\Frontend\\DoctorDepartment\\DoctorDepartment\\DoctorDepartment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\DoctorDepartment.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Frontend\\DoctorDepartment\\DoctorDepartment\\DoctorDepartment.csproj",
         "projectName": "DoctorDepartment",
-        "projectPath": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\DoctorDepartment.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Frontend\\DoctorDepartment\\DoctorDepartment\\DoctorDepartment.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\DoctorDepartment\\DoctorDepartment\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Frontend\\DoctorDepartment\\DoctorDepartment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -44,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "imports": [
             "net461",
@@ -68,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
